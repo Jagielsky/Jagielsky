@@ -7,77 +7,30 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ## 🚀 Technical Skills
 
-<table>
-  <tr>
-    <!-- Table 1: Operating Systems -->
-    <td valign="top">
-      <b>🖥️ Operating Systems</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/></td><td>Windows</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td><td>Linux</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/></td><td>Raspberry Pi</td></tr>
-      </table>
-    </td>
-    <!-- Table 2: Frontend -->
-    <td valign="top">
-      <b>🎨 Frontend</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td><td>HTML5</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td><td>CSS3</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td><td>JavaScript</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40"/></td><td>jQuery</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/></td><td>Bootstrap</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td><td>React</td></tr>
-      </table>
-    </td>
-    <!-- Table 3: Backend & Runtime -->
-    <td valign="top">
-      <b>⚙️ Backend & Runtime</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td><td>Node.js</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td><td>Python</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></td><td>Flask</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td><td>PHP</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td><td>Java</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/></td><td>Dart</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/></td><td>Flutter</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/></td><td>.NET</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td><td>C#</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="40"/></td><td>F#</td></tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <!-- Table 4: Databases -->
-    <td valign="top">
-      <b>🗄️ Databases</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td><td>MySQL</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td><td>MongoDB</td></tr>
-      </table>
-    </td>
-    <!-- Table 5: Other Languages & Technologies -->
-    <td valign="top">
-      <b>🔣 Other Languages & Technologies</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/></td><td>Matlab</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td><td>C++</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" width="40"/></td><td>Assembler</td></tr>
-        <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/MQL5_logo.png" width="40"/></td><td>MQL5</td></tr>
-      </table>
-    </td>
-    <!-- Table 6: Tools & IDEs -->
-    <td valign="top">
-      <b>🛠️ Tools & IDEs</b>
-      <table>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40"/></td><td>Visual Studio</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td><td>VS Code</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/></td><td>Android Studio</td></tr>
-        <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40"/></td><td>GIMP</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+### 🖥️ Operating Systems
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/><br>**Windows** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>**Linux** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/><br>**Raspberry Pi** |
+|:---:|:---:|:---:|
+
+### 🎨 Frontend
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>**CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/><br>**jQuery** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>**Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>**React** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### ⚙️ Backend & Runtime
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br>**Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>**Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/><br>**Flask** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>**PHP** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>**Java** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/><br>**Dart** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/><br>**Flutter** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/><br>**.NET** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br>**C#** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="40" height="40"/><br>**F#** |
+
+### 🗄️ Databases
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br>**MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>**MongoDB** |
+|:---:|:---:|
+
+### 🔣 Other Languages & Technologies
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/><br>**Matlab** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>**C++** | <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40"/><br>**Assembler** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="40" height="40"/><br>**MQL5** |
+|:---:|:---:|:---:|:---:|
+
+### 🛠️ Tools & IDEs
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/><br>**Visual Studio** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/><br>**VS Code** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/><br>**Android Studio** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40" height="40"/><br>**GIMP** |
+|:---:|:---:|:---:|:---:|
 
 ---
 
