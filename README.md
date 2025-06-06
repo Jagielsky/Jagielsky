@@ -27,7 +27,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="20" height="20" /> Matlab  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" /> C++  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" /> SQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembler" width="20" height="20" /> Assembler
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" alt="Assembler" width="20" height="20" /> Assembler
 
 ---
 
