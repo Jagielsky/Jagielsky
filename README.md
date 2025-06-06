@@ -12,7 +12,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 |:---:|:---:|:---:|
 
 ### 🎨 Frontend
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>**CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/><br>**jQuery** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/><br>**Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>**React** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br>**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>**CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>**JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/><br>**jQuery** | <img src="https://camo.githubusercontent.com/ecd695fb1ffadab6633f9fcdffaeebc58f3cca722260f0dec7dc607bd9d0e740/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="40" height="40"/><br>**Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>**React** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### ⚙️ Backend & Runtime
@@ -25,7 +25,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 |:---:|:---:|
 
 ### 🔣 Other Languages & Technologies
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/><br>**Matlab** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>**C++** | <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="40" height="40"/><br>**Assembler** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="40" height="40"/><br>**MQL5** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/><br>**Matlab** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>**C++** | <img src="https://cdn-icons-png.flaticon.com/512/2250/2250218.png" width="40" height="40"/><br>**Assembler** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="40" height="40"/><br>**MQL5** |
 |:---:|:---:|:---:|:---:|
 
 ### 🛠️ Tools & IDEs
