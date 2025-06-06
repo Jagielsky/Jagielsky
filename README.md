@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jagielsky 👋
 
-<!--
-**Jagielsky/Jagielsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student developer with experience across multiple languages and frameworks. I enjoy building projects, learning new technologies, and connecting with the tech community.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Python (Flask), PHP, Java, .NET (C#, F#), Dart
+- **Other Languages:** Matlab, C++, SQL, Assembler
+
+## 🛠️ Projects
+
+- **MateOne**
+- **CrazyCatcher**
+
+## 🌍 Find Me Here
+
+- [LinkedIn](https://www.linkedin.com/in/jagielsky/)
+
+## 🎮 Hobbies
+
+- Gaming
+- Skateboarding
+- Pokémon TCG & Trading
+
+---
+
+Let's connect and build something awesome together!
