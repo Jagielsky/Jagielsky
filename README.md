@@ -1,4 +1,4 @@
-# Hi, I'm Jagielsky 👋
+# Hi, I'm Oskar 👋
 
 I'm a passionate student developer with experience across multiple languages and frameworks.  
 I enjoy building projects, learning new technologies, and connecting with the tech community.
