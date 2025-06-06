@@ -7,6 +7,10 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ## 🚀 Technical Skills
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 250px;">
+
 ### 🖥️ Operating Systems
 
 <table>
@@ -14,6 +18,10 @@ I enjoy building projects, learning new technologies, and connecting with the te
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td><td>Linux</td></tr>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/></td><td>Raspberry Pi</td></tr>
 </table>
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 ### 🎨 Frontend
 
@@ -25,6 +33,10 @@ I enjoy building projects, learning new technologies, and connecting with the te
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/></td><td>Bootstrap</td></tr>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td><td>React</td></tr>
 </table>
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 ### ⚙️ Backend & Runtime
 
@@ -41,12 +53,20 @@ I enjoy building projects, learning new technologies, and connecting with the te
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="40"/></td><td>F#</td></tr>
 </table>
 
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
 ### 🗄️ Databases
 
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td><td>MySQL</td></tr>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td><td>MongoDB</td></tr>
 </table>
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 ### 🔣 Other Languages & Technologies
 
@@ -57,9 +77,11 @@ I enjoy building projects, learning new technologies, and connecting with the te
   <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/MQL5_logo.png" width="40"/></td><td>MQL5</td></tr>
 </table>
 
----
+</div>
 
-## 🛠️ Tools & IDEs
+<div style="flex: 1; min-width: 250px;">
+
+### 🛠️ Tools & IDEs
 
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40"/></td><td>Visual Studio</td></tr>
@@ -67,6 +89,10 @@ I enjoy building projects, learning new technologies, and connecting with the te
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/></td><td>Android Studio</td></tr>
   <tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40"/></td><td>GIMP</td></tr>
 </table>
+
+</div>
+
+</div>
 
 ---
 
