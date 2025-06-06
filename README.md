@@ -11,7 +11,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 - HTML5, CSS3, JavaScript, React
 
 ### Backend
-- Python (Flask), PHP, Java, Dart, .NET (C#, F#)
+- Python, Flask, PHP, Java, Dart, .NET, C#, F#
 
 ### Other Languages & Technologies
 - Matlab, C++, SQL, Assembler
@@ -20,10 +20,10 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ## 🛠️ Projects
 
-- **MateOne** – Chess application with engine integration  
-- **CrazyCatcher** – (Krótki opis projektu, jeśli chcesz, możesz dopisać)  
-- **PulseNX** – (Krótki opis projektu)  
-- **Zodiac** – (Krótki opis projektu)  
+- **CrazyCatcher** – HTML, CSS and JS retro game
+- **MateOne** – Chess engine written in python
+- **PulseNX** – MQL5 Expert Advisor
+- **Zodiac** – Website optimization project
 
 ---
 
