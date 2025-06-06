@@ -8,26 +8,26 @@ I enjoy building projects, learning new technologies, and connecting with the te
 ## 🚀 Technical Skills
 
 ### Frontend
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5  
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3  
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" /> HTML5  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" /> CSS3  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" /> JavaScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> React
 
 ### Backend
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-- ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) Flask  
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP  
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java  
-- ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) Dart  
-- ![DotNet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg) .NET  
-- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#  
-- ![F#](https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg) F#
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> Python  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20" /> Flask  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20" /> PHP  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" /> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20" /> Dart  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="20" height="20" /> .NET  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20" /> C#  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="20" height="20" /> F#
 
 ### Other Languages & Technologies
-- ![Matlab](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg) Matlab  
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++  
-- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) SQL  
-- ![Assembler](https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg) Assembler
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="20" height="20" /> Matlab  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" /> C++  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" /> SQL  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembler" width="20" height="20" /> Assembler
 
 ---
 
