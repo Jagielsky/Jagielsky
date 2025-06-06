@@ -10,7 +10,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 ### Operating Systems
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" /> Windows  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> Linux  
-<img src="https://www.raspberrypi.com/app/uploads/2018/05/Raspberry-Pi-Logo-300x82.png" alt="Raspberry Pi" width="80" style="vertical-align:middle" /> Raspberry Pi
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" style="vertical-align:middle" /> Raspberry Pi
 
 ### Frontend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> HTML5  
