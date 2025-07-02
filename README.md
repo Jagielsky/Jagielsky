@@ -39,7 +39,8 @@ I enjoy building projects, learning new technologies, and connecting with the te
 - **CrazyCatcher** – HTML, CSS and JS retro game  
 - **MateOne** – Chess engine written in Python  
 - **PulseNX** – MQL5 Expert Advisor  
-- **Zodiac** – Website optimization project  
+- **Zodiac** – Website optimization project
+- **https://siemcar.pl** – WordPress website for local business
 
 ---
 
