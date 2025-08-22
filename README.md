@@ -78,4 +78,4 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ### Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/jagielsky/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=jagielsky&color=blue)
