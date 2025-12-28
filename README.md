@@ -22,7 +22,7 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ## 🧠 Projects
 
-- **[supercena.pl](https://supercena.pl)** – Online store / E-commerce project
+- **[supercena.pl](https://supercena.pl)** – WordPress Large-scale multivendor e-commerce platform
 - **[siemcar.pl](https://siemcar.pl)** – WordPress website for a local car mechanic
 - **CrazyCatcher** – HTML, CSS and JS retro game
 - **MateOne** – Chess engine written in Python
