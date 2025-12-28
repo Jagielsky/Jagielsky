@@ -22,11 +22,12 @@ I enjoy building projects, learning new technologies, and connecting with the te
 
 ## 🧠 Projects
 
-- **CrazyCatcher** – HTML, CSS and JS retro game  
-- **MateOne** – Chess engine written in Python  
-- **PulseNX** – MQL5 Expert Advisor  
+- **[supercena.pl](https://supercena.pl)** – Online store / E-commerce project
+- **[siemcar.pl](https://siemcar.pl)** – WordPress website for a local car mechanic
+- **CrazyCatcher** – HTML, CSS and JS retro game
+- **MateOne** – Chess engine written in Python
+- **PulseNX** – MQL5 Expert Advisor
 - **Zodiac** – Website optimization project
-- **siemcar.pl** – WordPress website for local business
 - **ASCII-cam** – Website with real time ASCII camera
 
 ## 🎨 Hobbies & Interests
