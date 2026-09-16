@@ -1,6 +1,6 @@
 # Hi, I'm Oskar 👋
 
-I'm a passionate student developer with experience across multiple languages and frameworks.  
+I'm a passionate developer with experience across multiple languages and frameworks.  
 I enjoy building projects, learning new technologies, and connecting with the tech community.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jagielsky&color=blue)  
@@ -23,19 +23,9 @@ I enjoy building projects, learning new technologies, and connecting with the te
 ## 🧠 Projects
 
 - **[supercena.pl](https://supercena.pl)** – WordPress Large-scale multivendor e-commerce platform
-- **[siemcar.pl](https://siemcar.pl)** – WordPress website for a local car mechanic
 - **CrazyCatcher** – HTML, CSS and JS retro game
 - **MateOne** – Chess engine written in Python
 - **PulseNX** – MQL5 Expert Advisor
-- **Zodiac** – Website optimization project
-- **ASCII-cam** – Website with real time ASCII camera
-
-## 🎨 Hobbies & Interests
-
-- Gaming 🎮  
-- Skateboarding 🛹  
-- Pokémon TCG ⚡  
-- Trading 📈
 
 ## 📊 Statistics
 
